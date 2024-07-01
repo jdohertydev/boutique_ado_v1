@@ -31,9 +31,6 @@ ALLOWED_HOSTS = [
     '.herokuapp.com',
 ]
 
-
-
-
 # Application definition
 
 INSTALLED_APPS = [
