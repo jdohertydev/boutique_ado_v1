@@ -12,6 +12,7 @@ jmespath==1.0.1
 oauthlib==3.2.2
 pillow==10.4.0
 psycopg2==2.9.9
+python-decouple==3.8
 python3-openid==3.2.0
 pytz==2024.1
 requests-oauthlib==2.0.0
