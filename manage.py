@@ -2,9 +2,6 @@
 import os
 import sys
 
-# Import env.py
-import env
-
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'boutique_ado.settings')
